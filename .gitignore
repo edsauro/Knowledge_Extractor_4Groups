@@ -1,0 +1,5 @@
+samples/private/
+raw/
+data/
+*.sqlite
+.env
