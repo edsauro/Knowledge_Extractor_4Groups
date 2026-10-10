@@ -3,3 +3,6 @@ raw/
 data/
 *.sqlite
 .env
+experiments/mvp_validation/output/
+__pycache__/
+*.pyc

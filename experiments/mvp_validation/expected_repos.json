@@ -1,0 +1,257 @@
+[
+  {
+    "canonical_url": "https://github.com/HKUDS/LightRAG",
+    "original_urls": [
+      "https://github.com/HKUDS/LightRAG"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      4
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/khoj-ai/khoj",
+    "original_urls": [
+      "https://github.com/khoj-ai/khoj)"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      10
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/emersoncassis/private-gpt",
+    "original_urls": [
+      "https://github.com/emersoncassis/private-gpt"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      123
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/google-ai-edge/gallery",
+    "original_urls": [
+      "https://github.com/google-ai-edge/gallery"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      125
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/yichuan-w/LEANN",
+    "original_urls": [
+      "https://github.com/yichuan-w/LEANN"
+    ],
+    "occurrence_count": 2,
+    "message_indexes": [
+      159,
+      1337
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/MarceloClaro/RAG1",
+    "original_urls": [
+      "https://github.com/MarceloClaro/RAG1"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      172
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/yamadashy/repomix",
+    "original_urls": [
+      "https://github.com/yamadashy/repomix"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      191
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/coderamp-labs/gitingest",
+    "original_urls": [
+      "https://github.com/coderamp-labs/gitingest"
+    ],
+    "occurrence_count": 2,
+    "message_indexes": [
+      192,
+      1605
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/fairy-root/liber3-ebook-downloader",
+    "original_urls": [
+      "https://github.com/fairy-root/liber3-ebook-downloader"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      345
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/exo-explore/exo",
+    "original_urls": [
+      "https://github.com/exo-explore/exo"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      363
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/EdisonVaccari/RAG_Sandeco",
+    "original_urls": [
+      "https://github.com/EdisonVaccari/RAG_Sandeco"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      428
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/toon-format/toon",
+    "original_urls": [
+      "https://github.com/toon-format/toon"
+    ],
+    "occurrence_count": 2,
+    "message_indexes": [
+      460,
+      805
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/kermitt2/grobid",
+    "original_urls": [
+      "https://github.com/kermitt2/grobid/"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      493
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/Unstructured-IO/unstructured",
+    "original_urls": [
+      "https://github.com/Unstructured-IO/unstructured"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      493
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/matheus896/evaluate-rag",
+    "original_urls": [
+      "https://github.com/matheus896/evaluate-rag",
+      "https://github.com/matheus896/evaluate-rag\""
+    ],
+    "occurrence_count": 2,
+    "message_indexes": [
+      532,
+      611
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/steveseguin/gemini-chatbot",
+    "original_urls": [
+      "https://github.com/steveseguin/gemini-chatbot"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      644
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/brutaro/pgd-rag",
+    "original_urls": [
+      "https://github.com/brutaro/pgd-rag"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      704
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/tonl-dev/tonl",
+    "original_urls": [
+      "https://github.com/tonl-dev/tonl"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      836
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/emersoncassis/JSON-TOON",
+    "original_urls": [
+      "https://github.com/emersoncassis/JSON-TOON"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      843
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/ServerlessLLM/ServerlessLLM",
+    "original_urls": [
+      "https://github.com/ServerlessLLM/ServerlessLLM"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      871
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+    "original_urls": [
+      "https://github.com/Marker-Inc-Korea/AutoRAG"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      879
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/vanna-ai/vanna",
+    "original_urls": [
+      "https://github.com/vanna-ai/vanna"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      992
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/aimacode/aima-exercises",
+    "original_urls": [
+      "https://github.com/aimacode/aima-exercises"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      1037
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/aimacode/aima-python",
+    "original_urls": [
+      "https://github.com/aimacode/aima-python"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      1038
+    ]
+  },
+  {
+    "canonical_url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+    "original_urls": [
+      "https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file"
+    ],
+    "occurrence_count": 1,
+    "message_indexes": [
+      1157
+    ]
+  }
+]
