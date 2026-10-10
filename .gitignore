@@ -3,6 +3,7 @@ raw/
 data/
 *.sqlite
 .env
-experiments/mvp_validation/output/
+experiments/mvp_validation/output/*
+!experiments/mvp_validation/output/EXPERIMENT-REPORT.md
 __pycache__/
 *.pyc

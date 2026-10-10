@@ -33,6 +33,7 @@ def canonical(raw):
     m = re.match(r"https?://(?:www\.)?github\.com/([^/#?]+/[^/#?]+)", s, re.I)
     if not m: return None
     owner, repo = m.group(1).split("/", 1)
+    repo = repo.removesuffix(".git")
     return f"https://github.com/{owner}/{re.split(r'[/#?]', repo)[0]}"
 
 def found(messages):
